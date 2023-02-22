@@ -1,0 +1,22 @@
+body{
+  background-image: url('../imagenes/pagina.jpg');
+  background-size:  cover;
+  font-family: sans-serif;
+  height: 95vh;
+}
+
+caption {
+  padding: 20px;
+  font-size: 28px;
+  color:black;
+}
+th {
+  background-color: #E67E22;
+  color: black;
+}
+td {
+  background-color: #f5cba7;
+  color: black;
+  padding: 8px;
+  text-align: center;
+}
